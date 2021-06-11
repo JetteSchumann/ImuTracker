@@ -1,0 +1,6 @@
+**/.DS_Store
+.python-version
+src/__pychache__/**
+*.py[cod]
+private/**
+scripts/rCore_mat2csv.py
