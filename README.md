@@ -17,3 +17,5 @@ The framework offers methods to:
 ## Demo
 An example for the calculation of rotation angles of pedestrians based on trajectory files and extended by IMU data can be found in the `demo` directory.
 Configuration files for basic parameters and algorithm specific setting are also provided there.
+
+The corresponding input data can be found [here](https://ped.fz-juelich.de/da/doku.php?id=rotation_upper_body).
